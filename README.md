@@ -1,2 +1,3 @@
-# hiring
-Contains developer tests that we administer here at Bluetel
+# Jobs at Bluetel
+
+A collection of technical tests for candidates
