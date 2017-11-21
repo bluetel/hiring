@@ -18,7 +18,6 @@ Since we are a tech first company we expect that this service has extensive unit
 
 ## Schema
 
-    ```
     {
         "customerId": "identifier123",
         "serialNumber": "27263927192",
@@ -29,7 +28,6 @@ Since we are a tech first company we expect that this service has extensive unit
         ],
         "readDate": "2017-11-20T16:19:48+00:00"
     }
-    ```
 
 ## Notes/Tips
 
