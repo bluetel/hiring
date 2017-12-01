@@ -33,7 +33,6 @@ Since we are a tech first company we expect that this service has extensive unit
 
 * You do not have to follow the spec blindly, as long as you can explain the changes you have made.
 * You can add to the schema
-* Make sure you 
 * Customer id is a unique identifier for a customer, it is globally unique 
 * Serial number is the meter serial number is used to identify a meter, this number should be unique, however uniqueness cannot be assured.
 * RegisterId is the serial number on the register for that particular register, It can be used to uniquely identify a register, but not an energy supply.
