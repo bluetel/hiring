@@ -1,6 +1,6 @@
-#Software Engineer - PHP & NodeJS
+# Software Engineer - PHP & NodeJS
 
-##DESCRIPTION
+## DESCRIPTION
 We are looking for a mid to senior level PHP engineer with commercial experience using Symfony (or Laravel).
 
 The applicant will be building scaleable enterprise level products, using the Symfony framework alongside eZ Platform. This is a great opportunity for an engineer looking to build on their skills in PHP, Javascript, Docker, Symfony, eZ Platform, AWS and Varnish. There are also opportunities to work on the team's greenfield projects using Heroku, NodeJS, React and Symfony.
@@ -17,11 +17,11 @@ Responsibilities will include;
 - Ongoing communication/coordination with the client
 
 
-*No Recruiters/Agencies*
+**No Recruiters/Agencies**
 
-*No Sponsorships Available*
+**No Sponsorships Available**
 
-##REQUIREMENTS
+## REQUIREMENTS
 - Proven experience with Symfony, Laravel or NodeJS
 - Ability to work as part of a team and communicate ideas effectively
 - Comfortable working within an agile environment
@@ -33,7 +33,7 @@ Responsibilities will include;
 - _Exposure to AWS Infrastructure preferable_
 - _Knowledge of eZ Platform or Drupal 8 advantageous_
 
-##BENEFITS
+## BENEFITS
 - Paid overtime
 - Individual learning budget
 - 25 days holiday
