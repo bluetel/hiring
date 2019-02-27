@@ -3,7 +3,7 @@
 Thanks for taking interest in a position at Bluetel! Answering this set of questions gives us a good idea about your technical and logical capabilities; as well as a couple of personal characteristics. You can be as brief or comprehensive as you wish in your answers. We don’t expect every candidate to know all the answers to these questions, so please don’t be discouraged if you don’t know the answer! Good luck!  
 
 ### Question 1
-Create an algorithm that prints the integers from 17 to 53. However for multiples of two, print "Foo" instead  of the number and for multiples of five print "Bar". For numbers which are multiples of both two and five print "FooBar". 
+Write an APEX method which loops through numbers 1 to 20 and creates an Account record for each. The Account's Name field should be set to 'Test Account ' followed by the current number. For numbers which are multiples of two set the Employees field to '10', and for multiples of five set it to '20'. If the number is a multiple of both two and five set the Employees field to '30'.
 
 ### Question 2
 In a relational database, why is redundant data (i.e. the same data stored in multiple tables) generally a bad thing?
